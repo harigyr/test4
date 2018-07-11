@@ -1,0 +1,15 @@
+samples/websocket/snake/Snake.class
+samples/websocket/echo/EchoService.class
+samples/websocket/client/SimpleClientWebSocketHandler.class
+samples/websocket/snake/Location.class
+samples/websocket/snake/SnakeTimer.class
+samples/websocket/client/GreetingService.class
+samples/websocket/config/SampleWebSocketsApplication.class
+samples/websocket/snake/Location$1.class
+samples/websocket/client/SimpleGreetingService.class
+samples/websocket/snake/SnakeWebSocketHandler.class
+samples/websocket/echo/EchoWebSocketHandler.class
+samples/websocket/snake/SnakeUtils.class
+samples/websocket/echo/DefaultEchoService.class
+samples/websocket/snake/Direction.class
+samples/websocket/snake/SnakeTimer$1.class

@@ -1,0 +1,13 @@
+/opt/maven/apache-maven-3.2.5/all_pro23/test4/src/main/java/samples/websocket/snake/SnakeWebSocketHandler.java
+/opt/maven/apache-maven-3.2.5/all_pro23/test4/src/main/java/samples/websocket/snake/Location.java
+/opt/maven/apache-maven-3.2.5/all_pro23/test4/src/main/java/samples/websocket/snake/Direction.java
+/opt/maven/apache-maven-3.2.5/all_pro23/test4/src/main/java/samples/websocket/echo/EchoService.java
+/opt/maven/apache-maven-3.2.5/all_pro23/test4/src/main/java/samples/websocket/client/SimpleGreetingService.java
+/opt/maven/apache-maven-3.2.5/all_pro23/test4/src/main/java/samples/websocket/echo/EchoWebSocketHandler.java
+/opt/maven/apache-maven-3.2.5/all_pro23/test4/src/main/java/samples/websocket/snake/SnakeUtils.java
+/opt/maven/apache-maven-3.2.5/all_pro23/test4/src/main/java/samples/websocket/snake/SnakeTimer.java
+/opt/maven/apache-maven-3.2.5/all_pro23/test4/src/main/java/samples/websocket/client/SimpleClientWebSocketHandler.java
+/opt/maven/apache-maven-3.2.5/all_pro23/test4/src/main/java/samples/websocket/config/SampleWebSocketsApplication.java
+/opt/maven/apache-maven-3.2.5/all_pro23/test4/src/main/java/samples/websocket/client/GreetingService.java
+/opt/maven/apache-maven-3.2.5/all_pro23/test4/src/main/java/samples/websocket/snake/Snake.java
+/opt/maven/apache-maven-3.2.5/all_pro23/test4/src/main/java/samples/websocket/echo/DefaultEchoService.java
